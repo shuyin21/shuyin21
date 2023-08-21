@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shuyin21
 - 👀 I’m interested in building great websites.
-- 🌱 I’m currently learning Reactjs.
+- 🌱 I’m currently working on Reactjs.
 - 💞️ I’m looking to collaborate on many different projects.
 - 📫 How to reach me : just email me on shuyindev@gmail.com.
 
